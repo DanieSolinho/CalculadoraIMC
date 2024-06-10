@@ -6,7 +6,7 @@ Calculadora de IMC foi um aplicaivo que desenvolvi para dar meus primeiros passo
 
 ## Capturas de tela
 <!-- Você pode adicionar mais capturas de tela aqui se quiser -->
-<img src ="/result/01.png" largura = 150/>&emsp;<img src="/result/02.png" largura = 150/>&emsp;<img src="/result/03.png " largura = 150/>
+<img src ="/result/01.png" largura = 100/>&emsp;<img src="/result/02.png" largura = 100/>&emsp;<img src="/result/03.png " largura = 100/>
 
 ## Tecnologias
 * Kotlin
