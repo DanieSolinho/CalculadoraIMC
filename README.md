@@ -29,7 +29,7 @@ Calculadora de IMC foi um aplicaivo que desenvolvi para dar meus primeiros passo
 
 ## Author
 Daniella Solinho (follow me on [Instagram](https://www.instagram.com/daniesolinho/))
-Daniella Solinho (follow me on [Linkedin](https://www.linkedin.com/in/daniella-assump%C3%A7%C3%A3o-solinho-aa656b7/))
+Daniella Solinho (follow me on [Linkedin](https://www.linkedin.com/in/daniellasolinho/))
 ## License
 ```
 The MIT License (MIT)
